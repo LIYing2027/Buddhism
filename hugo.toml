@@ -2,6 +2,9 @@ baseURL = 'https://LIYing2027.github.io/Buddhism/'
 locale = 'en-us'
 title = 'Li Ying Apps'
 theme = "hugo-ficurinia-master"
+relativeURLs = true
+canonifyURLs = true
+
 
 [params]
 showTags = false
