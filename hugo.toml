@@ -9,4 +9,4 @@ showTags = false
 showRss = false
 enableSearch = false
 logo = "/smile.png"
-favicon = "img/coding.png"
+favicon = "/smile.png"
