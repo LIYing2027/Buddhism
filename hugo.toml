@@ -7,3 +7,4 @@ theme = "hugo-ficurinia-master"
 showTags = false
 showRss = false
 enableSearch = false
+logo = "smile.png"
