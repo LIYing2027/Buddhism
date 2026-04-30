@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
+  <channel>
+    <title>Categories on Li Ying Apps</title>
+    <link>https://LIYing2027.github.io/Buddhism/categories/</link>
+    <description>Recent content in Categories on Li Ying Apps</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://LIYing2027.github.io/Buddhism/categories/index.xml" rel="self" type="application/rss+xml" /><icon>https://LIYing2027.github.io/img/icon.svg</icon>
+    
+  </channel>
+</rss>
