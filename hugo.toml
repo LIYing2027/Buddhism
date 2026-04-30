@@ -1,5 +1,5 @@
 baseURL = "https://buddhism.fun/"
-locale = 'en-us'
+languageCode = "en-us"
 title = 'Li Ying Apps'
 theme = "hugo-ficurinia-master"
 
