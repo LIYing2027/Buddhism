@@ -9,7 +9,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
         <meta charset="UTF-8"/>
         
-        <link type="text/css" rel="stylesheet" href="https://buddhism.fun/css/styles.01ac4a1de11c8dec246ddfceeecf861bb6f5b1be6303aeb59e82c48c268f91bd22519323ae1f5dd0fd10b68c59057a40c221cf07ecd1af64d385fe6c526e36d6.css" integrity="sha512-AaxKHeEcjewkbd/O7s+GG7b1sb5jA661noLEjCaPkb0iUZMjrh9d0P0QtoxZBXpAwiHPB+zRr2TThf5sUm421g==" />
+        <link type="text/css" rel="stylesheet" href="http://localhost:1313/css/styles.01ac4a1de11c8dec246ddfceeecf861bb6f5b1be6303aeb59e82c48c268f91bd22519323ae1f5dd0fd10b68c59057a40c221cf07ecd1af64d385fe6c526e36d6.css" integrity="sha512-AaxKHeEcjewkbd/O7s+GG7b1sb5jA661noLEjCaPkb0iUZMjrh9d0P0QtoxZBXpAwiHPB+zRr2TThf5sUm421g==" />
         <style>
           .aboutfeeds {
             margin: 24px 0; padding: 12px;

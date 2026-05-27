@@ -2,24 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://buddhism.fun/</loc>
+    <loc>http://localhost:1313/pages/contact/</loc>
+    <lastmod>2026-05-27T16:30:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-05-27T16:30:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/pages/</loc>
+    <lastmod>2026-05-27T16:30:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2026-04-30T16:30:00+07:00</lastmod>
   </url><url>
-    <loc>https://buddhism.fun/posts/</loc>
+    <loc>http://localhost:1313/posts/privacy-policy/</loc>
     <lastmod>2026-04-30T16:30:00+07:00</lastmod>
   </url><url>
-    <loc>https://buddhism.fun/posts/privacy-policy/</loc>
-    <lastmod>2026-04-30T16:30:00+07:00</lastmod>
-  </url><url>
-    <loc>https://buddhism.fun/posts/cloud-music-offline-listening/</loc>
+    <loc>http://localhost:1313/posts/cloud-music-offline-listening/</loc>
     <lastmod>2026-04-30T16:00:00+07:00</lastmod>
   </url><url>
-    <loc>https://buddhism.fun/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://buddhism.fun/manifest/index.json</loc>
+    <loc>http://localhost:1313/manifest/index.json</loc>
   </url><url>
-    <loc>https://buddhism.fun/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
   </url><url>
-    <loc>https://buddhism.fun/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
